@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://AceF89.github.io/tapemath-site/sitemap.xml
